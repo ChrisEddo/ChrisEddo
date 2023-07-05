@@ -43,7 +43,4 @@
     <a href="https://www.instagram.com/chriseddo1/" target="blank">
         <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
     </a>
-    <a href="mailto:dicadag@gmail.com" >
-        <img   src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" alt="Christian S. | Gmail" height="50" width="50">
-    </a>
     </p>
