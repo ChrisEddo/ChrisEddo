@@ -1,5 +1,6 @@
 ### Hi there 👋
 <br>
+![Snake animation]
 (https://github.com/ChrisEddo/ChrisEddo/blob/output/github-contribution-grid-snake.svg)
 <picture>
     <source
