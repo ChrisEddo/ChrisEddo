@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br>
-(https://github.com/{{ChrisEddo}}/{{ChrisEddo}}/blob/output/github-contribution-grid-snake.svg)
+(https://github.com/{ChrisEddo}/{ChrisEddo}/blob/output/github-contribution-grid-snake.svg)
 <picture>
     <source
         srcset="https://github-readme-stats.vercel.app/api?username=ChrisEddo&show_icons=true&theme=radical"
