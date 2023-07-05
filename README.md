@@ -1,6 +1,8 @@
 ### Hi there 👋
 <br>
-<svg>https://github.com/ChrisEddo/ChrisEddo/blob/output/github-contribution-grid-snake.svg</svg>
+
+<img href="https://github.com/ChrisEddo/ChrisEddo/blob/output/github-contribution-grid-snake.svg">
+<br>
 <picture>
     <source
         srcset="https://github-readme-stats.vercel.app/api?username=ChrisEddo&show_icons=true&theme=radical"
@@ -30,7 +32,9 @@
 <a href="https://github.com/ChrisEddo/achallenge1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisEddo&repo=achallenge1&theme=tokyonight" />
 </a>
-
+<a href="https://github.com/ChrisEddo/achallenge2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisEddo&repo=achallenge2&theme=tokyonight" />
+</a>
 <h3 align="left">Connect With Me🤝</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/ing-geo-christian/" target="blank">
