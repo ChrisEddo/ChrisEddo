@@ -24,8 +24,21 @@
     </a>
 </p>
 
+### My Projects ✨:
+<br>
+<a href="https://github.com/ChrisEddo/achallenge1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisEddo&repo=achallenge1&theme=tokyonight" />
+</a>
+
 <h3 align="left">Connect With Me🤝</h3>
 <p align="center">
-    <a href="https://www.linkedin.com/in/ing-geo-christian/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-    <a href="https://www.instagram.com/chriseddo1/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+    <a href="https://www.linkedin.com/in/ing-geo-christian/" target="blank">
+        <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+    </a>
+    <a href="https://www.instagram.com/chriseddo1/" target="blank">
+        <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
+    </a>
+    <a href="mailto:dicadag@gmail.com" >
+        <img   src="https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg" alt="Christian S. | Gmail"/> //height="50" width="50"
+    </a>
     </p>
