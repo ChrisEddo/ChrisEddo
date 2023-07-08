@@ -3,19 +3,8 @@
 
 <img href="https://github.com/ChrisEddo/ChrisEddo/blob/output/github-contribution-grid-snake.svg">
 <br>
-<picture>
-    <source
-        srcset="https://github-readme-stats.vercel.app/api?username=ChrisEddo&show_icons=true&theme=radical"
-        media="(prefers-color-scheme: dark)"
-    />
-    <source
-        srcset="https://github-readme-stats.vercel.app/api?username=ChrisEddo&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=ChrisEddo&show_icons=true" />
-</picture>
+
 <br>
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisEddo&theme=blue-green/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
     <a href="https://skillicons.dev">
@@ -35,6 +24,24 @@
 <a href="https://github.com/ChrisEddo/achallenge2">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisEddo&repo=achallenge2&theme=tokyonight" />
 </a>
+<h3 align="left">My Stats</h3>
+
+<picture>
+    <source
+        srcset="https://github-readme-stats.vercel.app/api?username=ChrisEddo&show_icons=true&theme=radical"
+        media="(prefers-color-scheme: dark)"
+    />
+    <source
+        srcset="https://github-readme-stats.vercel.app/api?username=ChrisEddo&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=ChrisEddo&show_icons=true" />
+</picture>
+<br>
+<picture >
+    <img src="https://wakatime.com/share/@a0c8f56b-8138-4e50-bdc9-344cba7ddeb8/fd062bb4-a954-4f57-9115-91566bde8fef.svg" height="400" width="500" align="center">
+</picture>
+
 <h3 align="left">Connect With Me🤝</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/ing-geo-christian/" target="blank">
