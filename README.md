@@ -1,7 +1,8 @@
 ### Hi there 👋
 <br>
-
-<img href="https://github.com/ChrisEddo/ChrisEddo/blob/output/github-contribution-grid-snake.svg">
+<picture >
+    <img src="https://github.com/ChrisEddo/ChrisEddo/blob/output/github-contribution-grid-snake.svg">
+</picture>
 <br>
 
 <br>
