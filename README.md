@@ -22,10 +22,10 @@
 <a href="https://github.com/ChrisEddo/achallenge1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisEddo&repo=achallenge1&theme=tokyonight" />
 </a>
-<a href="https://github.com/ChrisEddo/Challenge2">
+<a href="[https://github.com/ChrisEddo/Challenge2](https://github.com/ChrisEddo/challenge2)">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisEddo&repo=achallenge2&theme=tokyonight" />
 </a>
-<a href="https://github.com/ChrisEddo/Zicatela">
+<a href="[https://github.com/ChrisEddo/Zicatela](https://github.com/ChrisEddo/Zicatela)">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisEddo&repo=achallenge2&theme=tokyonight" />
 </a>
 <h3 align="left">My Stats</h3>
